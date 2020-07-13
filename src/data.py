@@ -132,7 +132,7 @@ def create_textset(tokenizer, train_split, dev_split, name, path, bucketing, bat
 
 def load_dataset(n_jobs, use_gpu, pin_memory, ascending, corpus, audio, text):
     ''' Prepare dataloader for training/validation'''
-    print(audio)
+    print('load_dataset!!!',audio)
     # Audio feature extractor
     audio_transform, feat_dim = create_transform(audio.copy())
     # Text tokenizer
