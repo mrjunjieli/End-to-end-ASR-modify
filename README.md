@@ -1,0 +1,2 @@
+# End-to-end-ASR-modify file  
+These files are modified according to [End-to-end-ASR-Pytorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch#Reference) and [Deep Learning in Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
